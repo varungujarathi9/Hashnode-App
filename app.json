@@ -4,11 +4,11 @@
     "slug": "hashnode",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hashnode-icon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/hashnode-icon-splash.png",
+      "resizeMode":"contain",
+      "backgroundColor": "#3678FA"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,12 +25,12 @@
       "package": "dev.varungujarathi.hashnode",
       "versionCode": 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/hashnode-icon.png",
+        "backgroundColor": "#3678FA"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/hashnode-icon.png"
     }
   }
 }
